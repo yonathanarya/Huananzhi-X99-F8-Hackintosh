@@ -11,4 +11,8 @@ Storage: LiteOn CA3-8D512 NVMe SSD 512GB (for Windows and macOS boot drive) and 
 Wireless Module: Intel AX210
 
 What's working:
-Almost everything that I can find useful except Apple Continuity feature.
+Almost everything that I can find useful, except the Apple Continuity feature.
+
+![alt text](https://github.com/yonathanarya/Huananzhi-X99-F8-Hackintosh/blob/main/Image/1.png)
+![alt text](https://github.com/yonathanarya/Huananzhi-X99-F8-Hackintosh/blob/main/Image/2.png)
+![alt text](https://github.com/yonathanarya/Huananzhi-X99-F8-Hackintosh/blob/main/Image/3.png)
